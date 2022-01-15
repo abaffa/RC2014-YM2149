@@ -1648,7 +1648,7 @@ pause						; MM put in a test for character at terminal - RAW I/O called
   push de
   push af
 
-  LD BC, $C20            ;Loads BC with hex 1500 for 8mhz and C20 for 4mhz
+  LD BC, $B20            ;Loads BC with hex 1500 for 8mhz and B20 for 4mhz
   ; outer: LD DE, $1000            ;Loads DE with hex 1000
   ; inner: DEC DE                  ;Decrements DE
   ; LD A, D                 ;Copies D into A
