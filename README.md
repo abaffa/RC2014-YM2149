@@ -17,5 +17,5 @@ http://www.xl2s.tk/
 
 ----
 * PTxPlay.asm - original source-code of PT2 and PT3 player for ZX Spectrum and MSX by S.V.Bulba 
-* player_8mhz.asm - original MM-PTxPlay.asm by https://github.com/MMaciocia
+* player_8mhz.asm - MM-PTxPlay.asm adjusted to run under 8 Mhz
 * player_4mhz.asm - MM-PTxPlay.asm adjusted to run under 4 Mhz
